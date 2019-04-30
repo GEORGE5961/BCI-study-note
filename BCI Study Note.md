@@ -4,7 +4,7 @@
 ### General def
 Take a bio signal from a person -> BCI -> State prediction
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/1.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/1.png" width="50%">
 
 ### 3 BCI  subtypes
 * Active BCI
@@ -83,7 +83,7 @@ Take a bio signal from a person -> BCI -> State prediction
 * Functional mapping
 	* For most regions, morel or less well know functional associations exist
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/2.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/2.png" width="50%">
 
 
 * Volume conduction
@@ -91,16 +91,16 @@ Take a bio signal from a person -> BCI -> State prediction
 	* Volume conduction is linear
 	* Each sensor measures a weighted sum of each neural’s activity
 
-         <img src="/Users/wuzhengyu/Desktop/BCI/img/3.png" width="50%">
+         <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/3.png" width="50%">
 
 * Measurement sites
 
-    <img src="/Users/wuzhengyu/Desktop/BCI/img/4.png" width="50%">
+    <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/4.png" width="50%">
     
 * Equivalent Dipole model
 	* Localize the source
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/5.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/5.png" width="50%">
 	
 	* Problems
 		* Require knowledge about sensor locations
@@ -113,19 +113,19 @@ Take a bio signal from a person -> BCI -> State prediction
 		* Sparse Bayesian Learning
 	* Prone to finding only locally optimal solutions
 
-     <img src="/Users/wuzhengyu/Desktop/BCI/img/6.png" width="50%">
+     <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/6.png" width="50%">
 
-      <img src="/Users/wuzhengyu/Desktop/BCI/img/7.png" width="50%">
+      <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/7.png" width="50%">
 
 ## Lecture 2.3 Temporal characteristics
 * Neural vs Scalp activity
 
-	<img src="/Users/wuzhengyu/Desktop/BCI/img/8.png" width="50%">
+	<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/8.png" width="50%">
 
 * Oscillatory process
 	* EEG is full of oscillatory such as alpha rhythm
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/9.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/9.png" width="50%">
 	
 	* Rhythms
 		* delta (0-4 Hz)
@@ -137,7 +137,7 @@ Take a bio signal from a person -> BCI -> State prediction
 ## Lecture 2.4 Complex EEG phenomena
 * EEG source separated by ICA
 
-	<img src="/Users/wuzhengyu/Desktop/BCI/img/10.png" width="50%">
+	<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/10.png" width="50%">
 
 ## Lecture 2.5 Non-brain artifacts 
 * Internally generated
@@ -147,93 +147,93 @@ Take a bio signal from a person -> BCI -> State prediction
 * Sensor-related
 	* DC offset drifts, cable sway, thermal noise, quantization noise
 
-	<img src="/Users/wuzhengyu/Desktop/BCI/img/11.png" width="50%">
+	<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/11.png" width="50%">
 
-	<img src="/Users/wuzhengyu/Desktop/BCI/img/12.png" width="50%">
+	<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/12.png" width="50%">
 
 ## Lecture 2.6 Sensing and Acquisition
 
 # Lecture 3
 ## Lecture 3.1 The Role of Signal Processing
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/13.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/13.png" width="50%">
 
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/14.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/14.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/15.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/15.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/16.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/16.png" width="50%">
 
 ## Lecture 3.2 Major Filter Classes
 
 * Static filters
 	* Signal squaring
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/17.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/17.png" width="50%">
 
 	* Logarithm
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/18.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/18.png" width="50%">
 
 * Spatial filters 
 	* Most spatial filters are linear
 	* Y(n)= **M**X(n) for some matrix **M**
 
-     <img src="/Users/wuzhengyu/Desktop/BCI/img/19.png" width="50%">
+     <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/19.png" width="50%">
 
-     <img src="/Users/wuzhengyu/Desktop/BCI/img/20.png" width="50%">
+     <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/20.png" width="50%">
     
 * Temporal filters
 	* Transform a multi-channel signal X(n) such that each channel yi(n) in Y(n) depends only on the channel xi(n)
 	* Example
 	
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/21.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/21.png" width="50%">
 	
 * Sepectral filters
 	* Spectrum of a signal: a representation of the signal as a sum of  N sinusoidal components
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/22.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/22.png" width="50%">
 
 	* A equivalent (more common) representation is the Fourier Series representation
 
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/23.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/23.png" width="50%">
 
 	* Examples
 		* High-pass
 		* Low-pass
 
-          <img src="/Users/wuzhengyu/Desktop/BCI/img/24.png" width="50%">
+          <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/24.png" width="50%">
 
 	* A key spectral filter
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/25.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/25.png" width="50%">
 
 		* Filter implementation
 	
-			<img src="/Users/wuzhengyu/Desktop/BCI/img/26.png" width="50%">
+			<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/26.png" width="50%">
 		
 		* FIR filter implementation in MATLAB
 
-			<img src="/Users/wuzhengyu/Desktop/BCI/img/27.png" width="50%">
+			<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/27.png" width="50%">
 
 ##  Lecture 3.3 A simple neurofeedback BCI
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/28.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/28.png" width="50%">
 
 ## Lecture 3.4 Prediction Function Notion
 * Classification
 
- <img src="/Users/wuzhengyu/Desktop/BCI/img/29.png" width="50%">
+ <img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/29.png" width="50%">
  
 * pipeline
 
-	<img src="/Users/wuzhengyu/Desktop/BCI/img/30.png" width="50%">
+	<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/30.png" width="50%">
 
 * neurofeedback
 
-	<img src="/Users/wuzhengyu/Desktop/BCI/img/31.png" width="50%">
+	<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/31.png" width="50%">
 
 # Lecture 4
 ## Lecture 4.1 Adaptivity in BCIs
@@ -243,7 +243,7 @@ Take a bio signal from a person -> BCI -> State prediction
 		- Talairach
 		- LONI
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/32.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/32.png" width="50%">
 	
 	- Functional atlases (if available)
 	- Timing infomation
@@ -254,12 +254,12 @@ Take a bio signal from a person -> BCI -> State prediction
 		- beta
 		- theta
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/33.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/33.png" width="50%">
 
 * Calibration data (training data )
 	* To calculate optimal params of a BCI
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/34.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/34.png" width="50%">
 
 ## Lecture 4.2 Machine learning
 * Feature extraction
@@ -267,21 +267,21 @@ Take a bio signal from a person -> BCI -> State prediction
 		* Too much dimension — too much params to fit
 		* Too complex structure — too much modeling freedom 
 
-		<img src="/Users/wuzhengyu/Desktop/BCI/img/35.png" width="50%">
+		<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/35.png" width="50%">
 
 ## Lecture 4.3 Concrete Case Study
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/36.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/36.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/37.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/37.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/38.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/38.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/39.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/39.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/40.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/40.png" width="50%">
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/41.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/41.png" width="50%">
 
 ## Lecture 4.4 Performance Evaluation
 * Time series data like EEG
@@ -291,4 +291,4 @@ Take a bio signal from a person -> BCI -> State prediction
 
 ## Lecture 5.1 Task
 
-<img src="/Users/wuzhengyu/Desktop/BCI/img/42.png" width="50%">
+<img src="https://github.com/GEORGE5961/BCI-study-note/blob/master/img/42.png" width="50%">
